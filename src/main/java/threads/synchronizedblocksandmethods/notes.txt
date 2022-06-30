@@ -1,0 +1,4 @@
+Java synchronised blocks can only block threads sunning in the same VM. If you are in a clustered environment where there are multiple threads coming
+from multiple different VMs then the synchronised blocks will not block them
+
+To block them you have to design some mechanism yourself or use some DB tool or use some open source tool that provides that functionality

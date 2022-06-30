@@ -1,0 +1,22 @@
+
+L
+java:S1144""1Remove this unused private "manualMethod" method.(œÅËüÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "mergedArray".(ºÖùâøÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "mergedArray".(¬×“
+T
+java:S1144,"9Remove this unused private "usingSystemArrayCopy" method.(»‘¥»ÿÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "mergedArray".(”””ºùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(˜æòÆùÿÿÿÿ
+F
+java:S1481"0Remove this unused "mergedArray" local variable.(¾Áš˜
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(ˆ¶îf
+K
+java:S1481"0Remove this unused "mergedArray" local variable.(”””ºùÿÿÿÿ
+G
+java:S1612",Replace this lambda with a method reference.(÷ÚØĞıÿÿÿÿ
+t
+java:S3012$"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤Ş¹äøÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ˆ¶îf
